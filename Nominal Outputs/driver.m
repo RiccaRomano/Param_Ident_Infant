@@ -1,5 +1,4 @@
 % Laura Ellwein Fix - Richard Foster
-% Optimization of Chest Wall Model against Data from Abbasi/Bhutani1990 (gives Ppl, Vdot, and VA data)
 close all
 clear
 clc
