@@ -1,5 +1,4 @@
 %% FIGURE WITHOUT LABELS
-
 clear
 close all
 clc
