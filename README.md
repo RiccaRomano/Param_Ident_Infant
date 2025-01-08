@@ -10,33 +10,13 @@ The complexity of mathematical models describing respiratory mechanics has grown
 
 ## Description
 
-This project performs global and local sensitivity analyses, singular-value decomposition and QR-factorization-based subset selection, and gradient-based optimization against reported clinical data for a pulmonary mechanics model of a preterm infant. Below, you should find code and data relating to this project, organized in the following folders:
-
-* Nominal Outputs
-* Morris Method
-* Local Analysis
-* Optimization Abbasi Data
-* Reduced Model Outputs
+This project performs global and local sensitivity analyses, singular-value decomposition and QR-factorization-based subset selection, and gradient-based optimization against reported clinical data for a pulmonary mechanics model of a preterm infant.
 
 ## Getting Started
 
 ### Dependencies
 
 Program prerequisites just include MATLAB (newer versions preferred)
-
-### Executing program
-
-Run code in the "Nominal Outputs" folder to obtain initial model outputs before any parameter estimation is performed.
-
-
-## Help
-
-Any advise for common problems or issues.
-```
-command to run if program contains helper info
-```
-
-## Authors
 
 Laura Ellwein Fix: lellwein@vcu.edu (corresponding author) <br>
 Richard Foster: fosterrr@vcu.edu
