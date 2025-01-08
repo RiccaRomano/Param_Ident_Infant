@@ -10,10 +10,11 @@ The complexity of mathematical models describing respiratory mechanics has grown
 
 ## Description
 
-This project performs global and local sensitivity analyses, singular-value decomposition and QR-factorization-based subset selection, and gradient-based optimization against reported clinical data for a pulmonary mechanics model of a preterm infant.
+This project performs global and local sensitivity analyses, singular-value decomposition and QR-factorization-based subset selection, and gradient-based optimization against reported clinical data for a pulmonary mechanics model of a preterm infant. The available code only runs the nominal outputs 
 
 ## Getting Started
 
+The code driver is appropriately named driver.m. This script will run all
 ### Dependencies
 
 Program prerequisites just include MATLAB (newer versions preferred)
